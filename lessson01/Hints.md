@@ -13,3 +13,8 @@ pwd
 ```sh
 dir
 ```
+
+Удаление файла
+```sh
+del <filename>
+```
