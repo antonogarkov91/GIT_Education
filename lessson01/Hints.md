@@ -18,3 +18,8 @@ dir
 ```sh
 del <filename>
 ```
+Показать лог всех коммитов
+```sh
+git log --oneline
+```
+
