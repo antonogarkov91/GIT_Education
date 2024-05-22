@@ -64,3 +64,7 @@ git branch
 ```sh
 git branch <branch_name>
 ```
+### Удаление веток
+```sh
+git branch -d <branch_name>
+```
