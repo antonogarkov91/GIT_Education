@@ -54,7 +54,7 @@ git checkout <branch_name> or <ID commit>
 git branch
 ```
 
-### Создание веток
+### Создание новых веток
 Команда
 ```sh
 git branch <branch_name>
